@@ -20,10 +20,11 @@ A simple image slider created using HTML, CSS, and JavaScript.
 ## Demo
 
 
-[View Demo](#)  <!-- Add the link to your live demo here -->
+[View Demo](https://sourav356.github.io/slider.github.io/)  <!-- Add the link to your live demo here -->
 
 
-![Image Slider Demo](screenshot.png)  <!-- Add a screenshot or gif of your image slider -->
+![Image Slider Demo]  <!-- Add a screenshot or gif of your image slider -->
+![Screenshot (608)](https://github.com/Sourav356/slider.github.io/assets/137917513/154b2026-6cc9-410c-bafd-3862ca3511f8)
 
 
 ## Features
@@ -50,5 +51,5 @@ A simple image slider created using HTML, CSS, and JavaScript.
    
 
    ```bash
-   git clone https://github.com/your-username/image-slider.git
+   https://github.com/Sourav356/slider.github.io.git
 
