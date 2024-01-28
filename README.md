@@ -11,7 +11,6 @@ A simple image slider created using HTML, CSS, and JavaScript.
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
