@@ -53,3 +53,28 @@ A simple image slider created using HTML, CSS, and JavaScript.
    ```bash
    https://github.com/Sourav356/slider.github.io.git
 
+
+### Customization
+
+
+You can customize the image slider by modifying the settings in the slider.js file. Adjust parameters like slide duration, transition speed, and more.
+
+
+### Contributing
+
+
+Contributions are welcome! Feel free to open issues and pull requests.
+
+
+1. Fork the repository
+2. Create your feature branch: git checkout -b feature/new-feature
+3. Commit your changes: git commit -m 'Add new feature'
+4. Push to the branch: git push origin feature/new-feature
+5. Open a pull request
+
+   
+## License
+
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Sourav356/slider.github.io/blob/main/LICENSE) file for details.
+
